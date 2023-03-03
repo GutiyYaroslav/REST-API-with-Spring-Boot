@@ -1,0 +1,1 @@
+insert into customers values (1, 'Ivan', 'Ivanov', 'Ukraine, Kiev, Vessenyaya', 10000.00);
